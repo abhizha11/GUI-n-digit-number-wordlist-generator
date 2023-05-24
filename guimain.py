@@ -6,7 +6,7 @@ from tkinter import messagebox
 banner = """
 ===============================================
    GUI-N-Digit Number Wordlist Generator
-		    BY @abhizha11 (Sagar Jha)
+		BY @abhizha11 (Sagar Jha)
 ================================================
 """
 
