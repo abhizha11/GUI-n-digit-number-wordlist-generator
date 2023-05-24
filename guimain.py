@@ -2,6 +2,17 @@ import os
 import tkinter as tk
 from tkinter import messagebox
 
+# Display banner
+banner = """
+===============================================
+   GUI-N-Digit Number Wordlist Generator
+		    BY @abhizha11 (Sagar Jha)
+================================================
+"""
+
+print(banner)
+
+
 
 def generate_number_wordlist(n):
   numbers = [str(i) for i in range(10)]
